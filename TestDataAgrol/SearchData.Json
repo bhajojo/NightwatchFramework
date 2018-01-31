@@ -1,0 +1,10 @@
+{
+  "Text" : "PREEM",
+  "FromDate" : "2017-02-02",
+  "ToDate" : "2017-06-02",
+  "FromAmount" : 10,
+  "ToAmount" : 3423,
+  "ToAmountErr" : 33429,
+  "MaskCardNumber" : "5430 66** **** 6099",
+  "FuelType" : "BENSIN •"
+}
